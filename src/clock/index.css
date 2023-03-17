@@ -1,0 +1,22 @@
+.Clock-container{
+    background-color: #ffffff15;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 50px 30px 50px;
+   margin-top: 25px;
+}
+
+.heading{
+    color: #fff;
+    font-family: "roboto";
+    font-size: 40px;
+    font-weight: 400;
+}
+.time{
+    color: #fff;
+    font-size: 30px;
+    font-family: "roboto";
+}
